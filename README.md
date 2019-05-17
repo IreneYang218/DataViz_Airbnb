@@ -13,5 +13,12 @@ New features used in this project:
 - [Vector Map/Spatial Join](https://www.tableau.com/about/blog/2019/3/now-beta-vector-maps-parameter-actions-and-new-ask-data-functionality-103451)
 
 ## Results
-[Workbook](AirbnbSF.twb)
-[Analysis](Airbnb_Analysis.pdf)
+[Workbook](AirbnbSF.twb)        
+[Analysis](Airbnb_Analysis.pdf)      
+
+## Plots Examples
+- Hosts with multiple listings       
+![Hosts_with_mulitple_listings](Plots/Hosts\ with\ multiple\ Listings\ (Connection\ Map).png)
+
+- Room Type & Reviews Numbers
+![RoomType_Reviews](Plots/Room\ Type\ and\ Price\ Distribution\ (Box\ plot).png)
