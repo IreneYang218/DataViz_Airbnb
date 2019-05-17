@@ -18,7 +18,7 @@ New features used in this project:
 
 ## Plots Examples
 - Hosts with multiple listings       
-![Hosts_with_mulitple_listings](Plots/Hosts\ with\ multiple\ Listings\ (Connection\ Map).png)
+![Hosts_with_mulitple_listings](Plots/Hosts%20with%20multiple%20Listings%20(Connection%20Map).png)
 
 - Room Type & Reviews Numbers
-![RoomType_Reviews](Plots/Room\ Type\ and\ Price\ Distribution\ (Box\ plot).png)
+![RoomType_Reviews](Plots/Plots/Room%20Type%20%26%20Reviews%20(Scatter%20Plot).png)
